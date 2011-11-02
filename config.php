@@ -7,5 +7,6 @@
 		@modified: November 02, 2011 - 00:22
 	*/
 	$config = array(
+		"sql_type" => "mysql"
 	);
 ?>

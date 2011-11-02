@@ -7,4 +7,5 @@
 		@modified: November 02, 2011 - 00:21
 	*/
 	include("./config.php");
+	include("./sources/db/{$config['sql_type']}.php");
 ?>
