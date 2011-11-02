@@ -7,6 +7,10 @@
 		@modified: November 02, 2011 - 00:22
 	*/
 	$config = array(
-		"sql_type" => "mysql"
+		"sql_db" => "001",
+		"sql_host" => "localhost",
+		"sql_type" => "mysql",
+		"sql_pass" => "pass",
+		"sql_user" => "root",
 	);
 ?>
