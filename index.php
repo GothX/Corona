@@ -8,4 +8,6 @@
 	*/
 	include("./config.php");
 	include("./sources/db/{$config['sql_type']}.php");
+	include("./sources/session.php");
+	$db->connect();
 ?>
