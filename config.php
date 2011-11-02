@@ -4,7 +4,8 @@
 		@version: 0.0.1
 		
 		@page: index.php
-		@modified: November 02, 2011 - 00:21
+		@modified: November 02, 2011 - 00:22
 	*/
-	include("./config.php");
+	$config = array(
+	);
 ?>
